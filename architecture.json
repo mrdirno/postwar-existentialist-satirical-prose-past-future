@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-satirical-prose-past-future",
+  "title": "The Nostalgia Gas Division",
+  "tagline": "In a world that packages the past for profit, one bureaucrat must calibrate his own humanity against the sterile machinery of manufactured memory.",
+  "target_words": 71765,
+  "actual_words": 71765,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Memory",
+    "Bureaucratic Absurdity and Conformity",
+    "The Search for Authentic Experience",
+    "The Alienation of the Modern Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Revised Floor Plan for Egress",
+      "words": 6524
+    },
+    {
+      "ch": 2,
+      "title": "The Scent of Boardroom Authority",
+      "words": 6524
+    },
+    {
+      "ch": 3,
+      "title": "Where the Raw Material is Drawn",
+      "words": 6524
+    },
+    {
+      "ch": 4,
+      "title": "A Procedural Tourniquet",
+      "words": 6524
+    },
+    {
+      "ch": 5,
+      "title": "The Throat Digests the Past",
+      "words": 6524
+    },
+    {
+      "ch": 6,
+      "title": "An Active, Consuming Silence",
+      "words": 6524
+    },
+    {
+      "ch": 7,
+      "title": "The Sound of Unfiltered Air",
+      "words": 6524
+    },
+    {
+      "ch": 8,
+      "title": "The Walk of Administrative Surrender",
+      "words": 6524
+    },
+    {
+      "ch": 9,
+      "title": "A Tomb for Function",
+      "words": 6524
+    },
+    {
+      "ch": 10,
+      "title": "The Meat of the World, Unmediated",
+      "words": 6524
+    },
+    {
+      "ch": 11,
+      "title": "A Nine-Square-Foot Expansion of Quiet",
+      "words": 6524
+    }
+  ]
+}
